@@ -74,11 +74,15 @@
 </p>
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=devJonatas06&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=devJonatas06&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+###
 
----
+<h2 align="left">Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andre806&locale=pt-br&hide_title=false&layout=compact&card_width=400&langs_count=8&theme=material-palenight&hide_border=true" height="250" alt="languages graph" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=andre806&show_icons=true&theme=material-palenight&hide_border=true" height="180"/>
+</div>
 
 ###
 
